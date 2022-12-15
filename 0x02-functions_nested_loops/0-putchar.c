@@ -1,6 +1,7 @@
 #include "main.h"
-/*
- * main ptint _putchar
+
+/**
+ * main print _putchar
  *
  * Return: 0
 */
